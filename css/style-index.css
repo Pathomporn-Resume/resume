@@ -169,6 +169,11 @@ ul{
     cursor: pointer;
 }
 
+.Respons-resume .watch-resume{
+    border-radius: 10%;
+}
+
+
 .social-icons{
     position: absolute;
     right: 50px;
